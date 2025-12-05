@@ -31,7 +31,7 @@ DS3 (color verde) parpadeaba
 ![[Placa 2024.png]]
 
 ## Segundo intento
-Se utilizó la placa 2020 de nuevo, se leyó la [Adicup3029 Hardware User Guide](`https://wiki.analog.com/resources/eval/user-guides/eval-adicup3029/hardware/adicup3029`), y se siguieron los pasos recomendados en la sección `Function` → `Push Buttons` → `3039_BOOT`.
+Se utilizó la placa 2020 de nuevo, se leyó la [Adicup3029 Hardware User Guide](https://wiki.analog.com/resources/eval/user-guides/eval-adicup3029/hardware/adicup3029), y se siguieron los pasos recomendados en la sección `Function` → `Push Buttons` → `3039_BOOT`.
 
 | **Button** | **Function**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | :--------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
